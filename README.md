@@ -9,8 +9,8 @@
 
 我使用的工具:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,cmake,anaconda,arch,cloudflare,gradle,godot,mongodb,mysql,neovim,redis,vscode,vite,wasm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,cmake,anaconda,arch,cloudflare,gradle,godot,mongodb,mysql,neovim,redis,vscode,vite,wasm,arduino&theme=light)](https://skillicons.dev)
 
 我使用的框架：
 
-[![My Skills](https://skillicons.dev/icons?i=pinia,pytorch,qt,react,vue,rocket,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pinia,pytorch,qt,react,vue,rocket,spring,actix&theme=light)](https://skillicons.dev)
